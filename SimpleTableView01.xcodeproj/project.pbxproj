@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04CD34292099746B00834F66 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD34242099746A00834F66 /* 3.png */; };
+		04CD342A2099746B00834F66 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD34252099746A00834F66 /* 5.png */; };
+		04CD342B2099746B00834F66 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD34262099746A00834F66 /* 2.png */; };
+		04CD342C2099746B00834F66 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD34272099746B00834F66 /* 1.png */; };
+		04CD342D2099746B00834F66 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 04CD34282099746B00834F66 /* 4.png */; };
 		04EB414A20995B140005E545 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EB414920995B140005E545 /* AppDelegate.swift */; };
 		04EB414C20995B140005E545 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04EB414B20995B140005E545 /* ViewController.swift */; };
 		04EB414F20995B140005E545 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04EB414D20995B140005E545 /* Main.storyboard */; };
@@ -15,6 +20,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04CD34242099746A00834F66 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		04CD34252099746A00834F66 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		04CD34262099746A00834F66 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		04CD34272099746B00834F66 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		04CD34282099746B00834F66 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 		04EB414620995B140005E545 /* SimpleTableView01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleTableView01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04EB414920995B140005E545 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04EB414B20995B140005E545 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +64,11 @@
 		04EB414820995B140005E545 /* SimpleTableView01 */ = {
 			isa = PBXGroup;
 			children = (
+				04CD34272099746B00834F66 /* 1.png */,
+				04CD34262099746A00834F66 /* 2.png */,
+				04CD34242099746A00834F66 /* 3.png */,
+				04CD34282099746B00834F66 /* 4.png */,
+				04CD34252099746A00834F66 /* 5.png */,
 				04EB414920995B140005E545 /* AppDelegate.swift */,
 				04EB414B20995B140005E545 /* ViewController.swift */,
 				04EB414D20995B140005E545 /* Main.storyboard */,
@@ -123,9 +138,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04CD342B2099746B00834F66 /* 2.png in Resources */,
 				04EB415420995B140005E545 /* LaunchScreen.storyboard in Resources */,
+				04CD342A2099746B00834F66 /* 5.png in Resources */,
 				04EB415120995B140005E545 /* Assets.xcassets in Resources */,
+				04CD342D2099746B00834F66 /* 4.png in Resources */,
 				04EB414F20995B140005E545 /* Main.storyboard in Resources */,
+				04CD34292099746B00834F66 /* 3.png in Resources */,
+				04CD342C2099746B00834F66 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
